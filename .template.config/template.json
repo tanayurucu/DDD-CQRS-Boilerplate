@@ -1,0 +1,11 @@
+{
+  "author": "Tanay Urucu",
+  "classifications": [
+    "Clean Architecture",
+    "DDD"
+  ],
+  "name": "Clean Architecture Web API Template",
+  "identity": "CleanArchitecture.Template",
+  "shortName": "clean-api",
+  "sourceName": "CleanArchitecture"
+}

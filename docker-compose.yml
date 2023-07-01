@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  backend:
+    image: "backend-template:latest"
+    networks:
+      - computing_overlay
+networks:
+  computing_overlay:
+    external: true
+    name: computing_overlay
